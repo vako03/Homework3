@@ -96,11 +96,10 @@
         android:layout_height="20dp"
         android:layout_marginStart="16dp"
         android:layout_marginTop="5dp"
-        android:hint="@string/title5"
+        android:text="@string/title5"
         android:textColor="#2981E4"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/title4"
-        tools:text="click here to recover it." />
+        app:layout_constraintTop_toBottomOf="@id/title4" />
 
     <Button
         android:id="@+id/button"
