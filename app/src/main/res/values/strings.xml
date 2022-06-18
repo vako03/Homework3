@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Homework3</string>
+    <string name="mainText">Sign into your Account</string>
+    <string name="text">Log into your BankMe account</string>
+    <string name="text1">Phone number</string>
+    <string name="edittext">+234 808 762  1236</string>
+    <string name="password">Password</string>
+    <string name="edittext2">*********</string>
+    <string name="text2">Have you forgotten your password?.</string>
+    <string name="title5">click here to recover it.</string>
+    <string name="button">LOG IN</string>
+    <string name="title6">Do you not have a BankMe account?</string>
+    <string name="title7">Sign up here</string>
+
+
+
+
+
+
+</resources>
